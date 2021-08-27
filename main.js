@@ -1,24 +1,28 @@
 'mode strict'
 
 const links = {
-    "nome": "Pedro Lino de Lima",
+    "nome": "Meus Projetos - Pedro Lino de Lima",
     "img": "avatar.jpg",
     "links": [
         {
-            "titulo": "facebook",
-            "url": "https://www.facebook.com/pedro.linodelima.3/"
+            "titulo": "Calculadora JS",
+            "url": "https://pedrolinolima.github.io/Calculadora_JS/"
         },
         {
-            "titulo": "github",
-            "url": "https://github.com/PedroLinoLima"
+            "titulo": "Todo-list JS",
+            "url": "https://pedrolinolima.github.io/todo-list/"
         },
         {
-            "titulo": "linkedin",
-            "url": "https://www.linkedin.com/in/pedro-lino-de-lima-18bb19204"
+            "titulo": "Semaforo JS",
+            "url": "https://pedrolinolima.github.io/Semaforo.js/"
         },
         {
-            "titulo": "instagram",
-            "url": "https://www.instagram.com/pedro_ldl_oz/"
+            "titulo": "Lâmpada JS",
+            "url": "https://pedrolinolima.github.io/Lampada.js/"
+        }
+        {
+            "titulo": "Calculadora IMC JS",
+            "url": "https://pedrolinolima.github.io/IMC/"
         }
     ]
 }
